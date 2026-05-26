@@ -20,4 +20,3 @@ This repository contains the Week 1 task for the DecodeLabs Project, focusing on
 ## 👤 Author
 **Shivam Dwivedi**  
 GitHub: https://github.com/shivamdwivedicse
-````0
